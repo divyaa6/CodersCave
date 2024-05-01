@@ -11,3 +11,10 @@ Data Analysis (EDA) to derive valuable insights.</br>
 
 <h3>Golden task :</h3><h4>Stock price movements analysis</h4>
 The objective is to uncover patterns, trends, and insights from the temporal data, enabling a better understanding of stock price movements over tim.</br>
+
+<h2>Phase 1</h2>
+
+<h3>Normal task :</h3><h4>Climate data Analysis</h4>
+The objective is to derive
+valuable insights from climate data, enabling a better understanding of weather
+conditions over time..</br>
